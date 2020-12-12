@@ -1,0 +1,28 @@
+---
+layout: default
+---
+            <div class="posts">
+                <h1 class="content-subhead">Recent Posts</h1>
+
+                {% for post in site.posts limit: 3 %}
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="{{ post.url }}"><h2 class="post-title">{{ post.title }}</h2></a>
+
+                        <p class="post-meta">
+                          {{ post.date | date: '%B %d, %Y' }}
+                          {% for category in post.categories %}
+                            <span class="post-category post-category-design" href="#">{{ category }}</span>
+                          {% endfor %}
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>
+                            {{ post.description }}
+                        </p>
+                    </div>
+                </section>
+                {% endfor %}
+            </div>
