@@ -1,10 +1,8 @@
 ---
 layout: legal
-title: Privacy Notice
+title: Privacy Policy
 permalink: /privacy/
 ---
-
-## Privacy Policy
 
 Personal data (usually referred to just as "data" below) will only be processed by us to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, and the services offered there.
 
@@ -32,7 +30,7 @@ Hegelstraße 18
 
 Germany
 
-Telephone: +4917693153060
+Telephone: +49 176 93153060
 
 E-Mail: denis@denisthiessen.de
 
@@ -74,7 +72,7 @@ We would like to point out that this might cause user data to be processed outsi
 
 The GitHub privacy policy can be found here:
 
-[https://policies.google.com/privacy](https://policies.google.com/privacy)
+[https://enterprise.github.com/privacy](https://enterprise.github.com/privacy)
 
 #### YouTube
 
@@ -84,7 +82,7 @@ We would like to point out that this might cause user data to be processed outsi
 
 The YouTube privacy policy can be found here:
 
-[https://enterprise.github.com/privacy](https://enterprise.github.com/privacy)
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 #### Social media links via graphics
 
