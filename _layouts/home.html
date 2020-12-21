@@ -13,7 +13,7 @@ layout: default
                         <p class="post-meta">
                           {{ post.date | date: '%B %d, %Y' }}
                           {% for category in post.categories %}
-                            <span class="post-category post-category-design" href="#">{{ category }}</span>
+                            <span class="post-category">{{ category }}</span>
                           {% endfor %}
                         </p>
                     </header>
