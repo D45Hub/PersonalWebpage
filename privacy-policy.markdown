@@ -1,5 +1,5 @@
 ---
-layout: legal
+layout: simple
 title: Privacy Policy
 permalink: /privacy/
 ---
