@@ -22,17 +22,7 @@ III. Information about the data processing
 
 The party responsible for this website (the "controller") for purposes of data protection law is:
 
-Denis Thiessen
-
-Hegelstraße 18
-
-76646 Bruchsal
-
-Germany
-
-Telephone: +49 176 93153060
-
-E-Mail: denis@denisthiessen.de
+<img alt="Contact Mail: mail@denisthiessen.de" src="../assets/icons/impressum.png">
 
 The controller's data protection officer is: Denis Thiessen
 
