@@ -1,0 +1,29 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>{{ site.title }}</title>
+        <link>https://denisthiessen.de</link>
+        <description>{{ site.description }}</description>
+        <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+        {% for post in site.posts %}
+        <item>
+            <title>{{ post.title }}</title>
+            <link>
+                {{ post.url | prepend: "https://denisthiessen.de" }}
+            </link>
+            <description>
+                {{ post.content | escape }}
+            </description>
+            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+            <guid>
+                {{ post.url | prepend: "https://denisthiessen.de" }}
+            </guid>
+        </item>
+        {% endfor %}
+    </channel>
+</rss>
