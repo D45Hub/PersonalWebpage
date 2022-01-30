@@ -64,15 +64,15 @@ The GitHub privacy policy can be found here:
 
 [https://enterprise.github.com/privacy](https://enterprise.github.com/privacy)
 
-#### YouTube
+#### LinkedIn
 
-We maintain an online presence on YouTube to present our company and our services and to communicate with customers/prospects. YouTube is a service of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, a subsidiary of Google LLC, 1600 Amphitheater Parkway, Mountain View, CA 94043 USA.
+We maintain an online presence on LinkedIn to present our company and our services and to communicate with customers/prospects. LinkedIn is a service of LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland, a subsidiary of LinkedIn Corporation, 1000 W. Maude Avenue, Sunnyvale, CA 94085, USA.
 
-We would like to point out that this might cause user data to be processed outside the European Union, particularly in the United States. This may increase risks for users that, for example, may make subsequent access to the user data more difficult. We also do not have access to this user data. Access is only available to YouTube.
+We would like to point out that this might cause user data to be processed outside the European Union, particularly in the United States. This may increase risks for users that, for example, may make subsequent access to the user data more difficult. We also do not have access to this user data. Access is only available to LinkedIn.
 
-The YouTube privacy policy can be found here:
+The LinkedIn privacy policy can be found here:
 
-[https://policies.google.com/privacy](https://policies.google.com/privacy)
+[https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
 
 #### Social media links via graphics
 
@@ -90,30 +90,11 @@ GitHub. Inc, 88 Colin P Kelly Jr Street, San Francisco, CA 94107 United States, 
 
 Privacy Policy: [https://enterprise.github.com/privacy](https://enterprise.github.com/privacy)
 
-#### YouTube
+#### LinkedIn
 
-Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, a subsidiary of Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA
+LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland, a subsidiary of LinkedIn Corporation, 1000 W. Maude Avenue, Sunnyvale, CA 94085, USA.
 
-Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+Privacy Policy: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
 
-#### YouTube
-
-We use YouTube on our website. This is a video portal operated by YouTube LLC, 901 Cherry Ave, 94066 San Bruno, CA, USA, hereinafter referred to as "YouTube".
-
-YouTube is a subsidiary of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, hereinafter referred to as "Google".
-
-We use YouTube in its advanced privacy mode to show you videos. The legal basis is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in improving the quality of our website. According to YouTube, the advanced privacy mode means that the data specified below will only be transmitted to the YouTube server if you actually start a video.
-
-Without this mode, a connection to the YouTube server in the USA will be established as soon as you access any of our webpages on which a YouTube video is embedded.
-
-This connection is required in order to be able to display the respective video on our website within your browser. YouTube will record and process at a minimum your IP address, the date and time the video was displayed, as well as the website you visited. In addition, a connection to the DoubleClick advertising network of Google is established.
-
-If you are logged in to YouTube when you access our site, YouTube will assign the connection information to your YouTube account. To prevent this, you must either log out of YouTube before visiting our site or make the appropriate settings in your YouTube account.
-
-For the purpose of functionality and analysis of usage behavior, YouTube permanently stores cookies on your device via your browser. If you do not agree to this processing, you have the option of preventing the installation of cookies by making the appropriate settings in your browser. Further details can be found in the section about cookies above.
-
-Further information about the collection and use of data as well as your rights and protection options in Google's privacy policy found at
-
-[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 [Model Data Protection Statement](https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html) for [Anwaltskanzlei Weiß & Partner](https://www.ratgeberrecht.eu/)
